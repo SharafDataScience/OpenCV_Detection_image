@@ -1,2 +1,2 @@
 # OpenCV_Detection_image
-Detection images face and objects
+Detection images faces and objects using diferent Open CV methods.
